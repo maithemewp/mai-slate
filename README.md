@@ -1,2 +1,2 @@
-# mai-slate
-An empty starter theme for Mai Theme v2
+# Mai Slate
+A blank starter theme for Mai Theme v2
