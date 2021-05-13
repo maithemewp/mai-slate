@@ -18,8 +18,6 @@ return [
 	// // Default global styles, colors, and fonts.
 	// 'global-styles' => [
 	// 	'colors' => [
-	// 		'black'      => '#000000',
-	// 		'white'      => '#ffffff',
 	// 		'header'     => '#ffffff', // Site header background.
 	// 		'background' => '#ffffff', // Body background.
 	// 		'alt'        => '#f8f9fa', // Background alt.
@@ -28,6 +26,8 @@ return [
 	// 		'link'       => '#007bff', // Link color.
 	// 		'primary'    => '#007bff', // Button primary background color.
 	// 		'secondary'  => '#6c747d', // Button secondary background color.
+	// 		'black'      => '#000000',
+	// 		'white'      => '#ffffff',
 	// 	],
 	// 	'custom-colors' => [
 	// 		[
@@ -56,15 +56,19 @@ return [
 	// ],
 	// // Custom template parts.
 	// 'template-parts' => [
-	// 	'custom-location' => [
-	// 		'hook'       => 'genesis_after_header',
-	// 		'priority'   => 10,
+	// 	// Only show Before Header template part on the homepage.
+	// 	'before-header' => [
+	// 		'condition' => 'is_front_page',
+	// 	],
+	// 	// Add new Featured Posts template part before entries on category/tag archives.
+	// 	'featured-posts' => [
+	// 		'hook'       => 'genesis_before_content_sidebar_wrap',
+	// 		'priority'   => 16,
 	// 		'menu_order' => 80,
-	// 		'before'     => '<div class="custom-location template-part">',
+	// 		'before'     => '<div class="archive-featured template-part">',
 	// 		'after'      => '</div>',
-	// 		// Conditionally display this template part.
 	// 		'condition'  => function() {
-	// 			return is_front_page() || is_category();
+	// 			return is_category() || is_tag();
 	// 		},
 	// 	],
 	// ],
