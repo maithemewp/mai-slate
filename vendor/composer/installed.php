@@ -6,37 +6,29 @@
     'aliases' => 
     array (
     ),
-    'reference' => '4b0d7dd791c89a5d6bcaa8554ebe4423eb7689f2',
-    'name' => 'maithemewp/mai-inspire',
+    'reference' => 'f1a3782b01df5e869aadf73e6ba7f90f555560d3',
+    'name' => 'maithemewp/mai-slate',
   ),
   'versions' => 
   array (
     'afragen/wp-dependency-installer' => 
     array (
-      'pretty_version' => '3.1.0',
-      'version' => '3.1.0.0',
+      'pretty_version' => '4.2.2',
+      'version' => '4.2.2.0',
       'aliases' => 
       array (
       ),
-      'reference' => '65570a1eb966bb9adfc9d9e521357da080fbdc5a',
+      'reference' => '5e5419348c6cde7b02f3c33fb3fc3381062443a1',
     ),
-    'collizo4sky/persist-admin-notices-dismissal' => 
+    'afragen/wp-dismiss-notice' => 
     array (
-      'pretty_version' => '1.4.4',
-      'version' => '1.4.4.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
+        0 => '9999999-dev',
       ),
-      'reference' => '900739eb6b0ec0210465f5983a6d4e0e420289e4',
-    ),
-    'maithemewp/mai-inspire' => 
-    array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '4b0d7dd791c89a5d6bcaa8554ebe4423eb7689f2',
+      'reference' => 'a0ced9836671d1374ed5d7f47e63ca313f5f54b9',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -46,7 +38,16 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => 'e6bff471a1d542c848f7247fe3cf018836c2204f',
+      'reference' => 'ce7076e94e56d8f179a4bb9b0b8942e525bf5d25',
+    ),
+    'maithemewp/mai-slate' => 
+    array (
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f1a3782b01df5e869aadf73e6ba7f90f555560d3',
     ),
   ),
 );
