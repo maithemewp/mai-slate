@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'f1a3782b01df5e869aadf73e6ba7f90f555560d3',
+    'reference' => 'e6efbcf2766a96b4caa930b7e05fee5a033e323e',
     'name' => 'maithemewp/mai-slate',
   ),
   'versions' => 
@@ -54,7 +54,7 @@ private static $installed = array (
       array (
         0 => '9999999-dev',
       ),
-      'reference' => 'a0ced9836671d1374ed5d7f47e63ca313f5f54b9',
+      'reference' => '21949732f1ea21d81500bdda8f882ac7eb0f98af',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -64,7 +64,7 @@ private static $installed = array (
       array (
         0 => '9999999-dev',
       ),
-      'reference' => 'ce7076e94e56d8f179a4bb9b0b8942e525bf5d25',
+      'reference' => '244cf7604a6b34a4662c29385497d4257f175956',
     ),
     'maithemewp/mai-slate' => 
     array (
@@ -73,7 +73,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'f1a3782b01df5e869aadf73e6ba7f90f555560d3',
+      'reference' => 'e6efbcf2766a96b4caa930b7e05fee5a033e323e',
     ),
   ),
 );
