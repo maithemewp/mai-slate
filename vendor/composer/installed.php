@@ -6,19 +6,19 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'e6efbcf2766a96b4caa930b7e05fee5a033e323e',
+    'reference' => '80e53a328acfbe2dc22991182b0ae371bc56148c',
     'name' => 'maithemewp/mai-slate',
   ),
   'versions' => 
   array (
     'afragen/wp-dependency-installer' => 
     array (
-      'pretty_version' => '4.2.2',
-      'version' => '4.2.2.0',
+      'pretty_version' => '4.2.3',
+      'version' => '4.2.3.0',
       'aliases' => 
       array (
       ),
-      'reference' => '5e5419348c6cde7b02f3c33fb3fc3381062443a1',
+      'reference' => '68aa4bfabfe0e807c7cf370580d0254b7b25c4f7',
     ),
     'afragen/wp-dismiss-notice' => 
     array (
@@ -38,7 +38,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '244cf7604a6b34a4662c29385497d4257f175956',
+      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
     ),
     'maithemewp/mai-slate' => 
     array (
@@ -47,7 +47,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'e6efbcf2766a96b4caa930b7e05fee5a033e323e',
+      'reference' => '80e53a328acfbe2dc22991182b0ae371bc56148c',
     ),
   ),
 );
