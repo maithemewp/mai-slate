@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '60361103b8442fe094542adefa65b360972bf038',
+    'reference' => 'a021488a09171dccc56e3e4181d4cd0766aa45a1',
     'name' => 'maithemewp/mai-slate',
   ),
   'versions' => 
@@ -35,7 +35,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '60361103b8442fe094542adefa65b360972bf038',
+      'reference' => 'a021488a09171dccc56e3e4181d4cd0766aa45a1',
     ),
   ),
 );
