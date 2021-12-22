@@ -32,29 +32,17 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '80e53a328acfbe2dc22991182b0ae371bc56148c',
+    'reference' => '60361103b8442fe094542adefa65b360972bf038',
     'name' => 'maithemewp/mai-slate',
   ),
   'versions' => 
   array (
     'afragen/wp-dependency-installer' => 
     array (
-      'pretty_version' => '4.2.3',
-      'version' => '4.2.3.0',
-      'aliases' => 
+      'replaced' => 
       array (
+        0 => '*',
       ),
-      'reference' => '68aa4bfabfe0e807c7cf370580d0254b7b25c4f7',
-    ),
-    'afragen/wp-dismiss-notice' => 
-    array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
-      'aliases' => 
-      array (
-        0 => '9999999-dev',
-      ),
-      'reference' => '21949732f1ea21d81500bdda8f882ac7eb0f98af',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -73,7 +61,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '80e53a328acfbe2dc22991182b0ae371bc56148c',
+      'reference' => '60361103b8442fe094542adefa65b360972bf038',
     ),
   ),
 );

@@ -15,6 +15,9 @@
     "require": {
         "maithemewp/mai-installer": "dev-master"
     },
+    "replace": {
+        "afragen/wp-dependency-installer": "*"
+    },
     "config": {
         "preferred-install": {
             "*": "dist"
